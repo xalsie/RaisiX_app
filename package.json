@@ -1,6 +1,6 @@
 {
-  "name": "RaisiX_app",
-  "version": "0.0.1",
+  "name": "raisix_app",
+  "version": "0.0.2",
   "description": "Application Multi-Plateformes for RaisiX WEB",
   "main": "main.js",
   "scripts": {
