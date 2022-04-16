@@ -1,22 +1,22 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "RaisiX_app",
+  "version": "0.0.1",
+  "description": "Application Multi-Plateformes for RaisiX WEB",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/xalsie/RaisiX_app",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Raisix"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "🐻｜LeGrizzly#0341",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^17.1.2"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }
