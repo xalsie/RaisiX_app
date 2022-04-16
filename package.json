@@ -11,7 +11,7 @@
     "Electron",
     "Raisix"
   ],
-  "author": "🐻｜LeGrizzly#0341",
+  "author": "xalsie",
   "license": "MIT",
   "devDependencies": {
     "electron": "^17.1.2"
