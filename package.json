@@ -1,5 +1,5 @@
 {
-  "name": "raisix_app",
+  "name": "xalsie/raisix_app",
   "version": "0.0.2",
   "description": "Application Multi-Plateformes for RaisiX WEB",
   "main": "main.js",
@@ -11,7 +11,7 @@
     "Electron",
     "Raisix"
   ],
-  "author": "xalsie",
+  "author": "legrizzly",
   "license": "MIT",
   "devDependencies": {
     "electron": "^17.1.2"
